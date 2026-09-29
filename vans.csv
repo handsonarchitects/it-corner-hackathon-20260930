@@ -1,0 +1,39 @@
+van_id,model,year,depot,ownership,lease_end,monthly_lease_pln,refrigerated,payload_kg
+P-01,Brona D35,2019,North,owned,,,no,1150
+P-02,Brona D35,2017,South,owned,,,no,1150
+P-03,Kestrel Cargo 3.5,2018,North,owned,,,yes,1300
+P-04,Brona D35,2022,North,leased,2027-05-31,2650,no,1150
+P-05,Kestrel Cargo 3.5,2022,South,owned,,,no,1300
+P-06,Brona D35,2017,North,owned,,,no,1150
+P-07,Kestrel Cargo 3.5,2020,South,owned,,,yes,1300
+P-08,Kestrel Cargo 3.5,2023,North,owned,,,no,1300
+P-09,Brona D35,2021,North,owned,,,no,1150
+P-10,Brona D35 Long,2021,South,leased,2027-01-31,2470,no,1050
+P-11,Brona D35,2016,North,owned,,,no,1150
+P-12,Kestrel Cargo 3.5,2023,South,owned,,,no,1300
+P-13,Brona D35,2022,North,owned,,,no,1150
+P-14,Brona D35 Long,2022,North,leased,2027-03-31,2780,no,1050
+P-15,Kestrel Cargo 3.5,2016,South,owned,,,no,1300
+P-16,Kestrel Cargo 3.5,2020,North,owned,,,no,1300
+P-17B,Brona D35,2023,South,owned,,,no,1150
+P-18,Brona D35,2019,South,owned,,,no,1150
+P-19,Kestrel Cargo 3.5,2022,North,owned,,,yes,1300
+P-20,Brona D35 Long,2024,South,leased,2028-11-30,2940,no,1050
+P-21,Brona D35 Long,2023,North,owned,,,no,1050
+P-22,Brona D35,2018,North,owned,,,no,1150
+P-23,Kestrel Cargo 3.5,2017,South,owned,,,yes,1300
+P-24,Brona D35 Long,2020,North,owned,,,no,1050
+P-25,Brona D35 Long,2023,South,leased,2028-04-30,2980,no,1050
+P-26,Brona D35 Long,2024,North,leased,2028-06-30,2890,no,1050
+P-27,Brona D35,2018,South,owned,,,no,1150
+P-28,Brona D35 Long,2021,North,leased,2026-11-30,2560,no,1050
+P-29,Brona D35 Long,2024,South,leased,2029-06-30,3240,no,1050
+P-30,Kestrel Cargo 3.5,2021,North,owned,,,no,1300
+P-31,Brona D35,2022,South,owned,,,no,1150
+P-32,Brona D35 Long,2022,South,leased,2027-08-31,2390,no,1050
+P-33,Brona D35 Long,2023,North,leased,2028-09-30,3010,no,1050
+P-34,Kestrel Cargo 3.5,2021,South,owned,,,yes,1300
+P-35,Kestrel Cargo 3.5,2019,North,owned,,,yes,1300
+P-36,Brona D35 Long,2023,South,leased,2028-02-29,2710,no,1050
+P-37,Brona D35 Long,2024,North,leased,2029-03-31,3180,no,1050
+P-38,Brona D35,2019,South,owned,,,no,1150

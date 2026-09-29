@@ -1,0 +1,12 @@
+logs/
+
+
+## Local
+.local
+.claude/settings.local.json
+*.mcp.json
+*.mcp.*.json
+vault/.obsidian
+
+## Python
+__pycache__/
